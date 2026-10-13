@@ -1,0 +1,8 @@
+[Nemo Action]
+Name=Copy as Path
+Comment=Copy the full path of the selected item(s) to the clipboard
+Exec=<copy-as-path.py %P %F>
+Icon-Name=edit-copy
+Selection=any
+Extensions=any;
+Dependencies=python3;
